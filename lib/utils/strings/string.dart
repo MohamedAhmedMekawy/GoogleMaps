@@ -1,5 +1,5 @@
 
-const API_KEY = 'AIzaSyCAOMyuhbP1CAJ1H4WnnMSXyC_xhpu72tE';
+const API_KEY = 'Api_key';
 
 const suggestionsBaseUrl =
     'https://maps.googleapis.com/maps/api/place/autocomplete/json';
